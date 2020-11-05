@@ -1,0 +1,26 @@
+<html>
+
+    <head>
+        <link rel="stylesheet" href="index.css">
+
+        <link rel="shortcut icon" type="image/x-icon" href="new.jpg">
+        <title>SUGAR MIND</title>
+
+    </head>
+
+    <body>
+
+        <a href="file:///C:/Users/Usuario/Desktop/proyecto%20pia/index.html" class="btn-neon">
+
+            <span id="span1"></span>
+            <span id="span2"></span>
+            <span id="span3"></span>
+            <span id="span4"></span>
+
+            SEGUIR
+
+        </a>
+
+    </body>
+
+</html>
